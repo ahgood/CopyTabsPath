@@ -1,0 +1,8 @@
+[
+    { "caption": "-" },
+    { 
+        "caption": "Copy Tabs Path", 
+        "command": "copy_tabs_path" 
+    },
+    { "caption": "-" }
+]
