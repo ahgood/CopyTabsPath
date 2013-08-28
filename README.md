@@ -1,7 +1,7 @@
 #Copy Tabs Path for Sublime Text 2 
 (Changed from bradleyboy/TidyTabs-Sublime, thanks to bradleyboy)
 
-Copy all tabs path to clipboard by press keys `ctrl + alt + c`.
+Copy all tabs path to clipboard by press keys `ctrl + alt + c` OR clicking "Copy Tabs Path" on mouse right click menu.
 
 ##Installation
 Clone or download this repo to your **Packages** folder.
